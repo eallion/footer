@@ -1,5 +1,5 @@
-# footer-year
-update your footer copyright year
+# Footer
+Update your footer copyright year
 
 ### PHP
 ```
