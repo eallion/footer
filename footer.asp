@@ -1,0 +1,1 @@
+YearLabel.Text = DateTime.Now.Year.ToString();

@@ -1,6 +1,23 @@
 # footer-year
 update your footer copyright year
 
+### PHP
+```
+&copy; <?php echo date("Y"); ?>
+```
+
+### HTML
+```
+<div class="">&copy;<span id="copyright"></span></div>
+```
+
+### JavaScript
+```
+document.addEventListener('DOMContentLoaded', function () {
+    document.getElementById("copyright").innerHTML = new Date().getFullYear();
+});
+```
+
 ### LICENSE
 ```
 GLWT（祝你好运）公共许可证
