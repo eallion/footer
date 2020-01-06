@@ -8,7 +8,7 @@ Update your footer copyright year
 
 ### HTML
 ```
-<div class="">&copy;<span id="copyright"></span></div>
+<div class="">&copy; <span id="copyright"></span></div>
 ```
 
 ### JavaScript
